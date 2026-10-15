@@ -47,4 +47,4 @@ Python / Django developer. Делаю веб-приложения, Telegram-бо
 
 ### Контакты
 
-[Telegram](https://t.me/TELEGRAM_NICK) · [Email](mailto:EMAIL)
+[Telegram](https://t.me/egorshaporenko) · [Email](mailto:shaporenkoegor10@gmail.com)
